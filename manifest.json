@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "racourcis",
+    "version": "1.0.0",
+    "action": {
+        "default_icon": {
+            "16": "logo.png",
+            "24": "logo.png",
+            "32": "logo.png"
+        },
+        "default_title": "Klifs's links",
+        "default_popup": "popup.html",
+        "browser_style": true
+    },
+
+    "description": "Projet codeloccol création d'extention chrome_settings_overrides ",
+    "author": "Abakensis",
+    "comands": {},
+    "icons": {
+        "16": "logo.png",
+        "24": "logo.png",
+        "32": "logo.png"
+    }
+
+}
